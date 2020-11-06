@@ -1,0 +1,15 @@
+[
+  {
+    "hrvy":
+      { 
+        "name": "Hrvy",
+        "logo": "https://cdn.discordapp.com/avatars/768488887105749002/a8f72c39cc4c759176f41f11a3100318.png?size=2048",
+        "website": "https://hrvy.pw",
+        "description": "Powering your hrvy addiction",
+        "color": "#feca2a",
+        "listen_url": "https://hrvy.pw",
+        "api_url": "https://hrvy.pw/api",
+        "ext_api_identifier": "hrvy"
+      }
+  }
+]
