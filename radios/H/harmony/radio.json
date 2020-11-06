@@ -1,0 +1,15 @@
+[
+  {
+    "harmony":
+      { 
+        "name": "Harmony",
+        "logo": "https://a.alpacacdn.gg/ra/harmony.png",
+        "website": "https://harmonyradio.pw",
+        "description": "You give the Harmony to music.",
+        "color": "#9546dd",
+        "listen_url": "https://radio.harmonyradio.pw/web",
+        "api_url": "EXTERNAL",
+        "ext_api_identifier": "harmony"
+      }
+  }
+]

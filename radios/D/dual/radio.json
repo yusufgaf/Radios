@@ -1,0 +1,15 @@
+[
+  {
+  	"dual":
+	  { 
+	  	"name": "Dual",
+  		"logo": "https://cdn.dual.pw/logo-boxed.png",
+  		"website": "https://dual.pw",
+  		"description": "Let Dual power your ears with the latest and greatest music from around the world.",
+  		"color": "#6F688E",
+  		"listen_url": "https://live.dual.pw/stream.mp3",
+  		"api_url": "https://api.dual.pw/stats",
+        "ext_api_identifier": "dual"
+  	  }
+  }
+]

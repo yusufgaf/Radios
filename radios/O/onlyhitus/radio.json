@@ -1,0 +1,15 @@
+[
+  {
+    "onlyhitus":
+      { 
+        "name": "OnlyHitUS",
+        "logo": "https://a.alpacacdn.gg/ra/onlyhitus.png",
+        "website": "https://onlyhit.us",
+        "description": "OnlyHit - Your favorite Hits Station.",
+        "color": "#E8433D",
+        "listen_url": "https://str2b.openstream.co/1810?aw_0_1st.collectionid=5248&stationId=5248&publisherId=1834&k=1604522123",
+        "api_url": "EXTERNAL",
+        "ext_api_identifier": "onlyhitus"
+      }
+  }
+]

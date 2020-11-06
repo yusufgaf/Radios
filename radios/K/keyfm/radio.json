@@ -1,0 +1,15 @@
+[
+  {
+  	"keyfm":
+	  	{ 
+	  		"name": "KeyFM",
+  			"logo": "https://a.alpacacdn.gg/ra/keyfm.png",
+  			"website": "https://keyfm.net",
+  			"description": "KeyFM.net is a non-profit radio community providing music around the globe, all day - every day.",
+  			"color": "#0086fe",
+  			"listen_url": "https://radio.keyfm.net",
+  			"api_url": "https://api.keyfm.net/stats",
+        "ext_api_identifier": "keyfm"
+  		}
+  }
+]

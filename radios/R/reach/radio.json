@@ -1,0 +1,15 @@
+[
+  {
+    "reach":
+      { 
+        "name": "Reach",
+        "logo": "https://a.alpacacdn.gg/ra/reach.png",
+        "website": "https://reachradio.co.uk",
+        "description": "We are broadcasting online 24/7. All you will need is to have an internet connection and you can listen to us anywhere!",
+        "color": "#81BFE6",
+        "listen_url": "https://stream.reachradio.co.uk",
+        "api_url": "EXTERNAL",
+        "ext_api_identifier": "reach"
+      }
+  }
+]

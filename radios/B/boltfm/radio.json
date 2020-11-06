@@ -1,0 +1,15 @@
+[
+  {
+    "boltfm":
+      { 
+        "name": "BoltFM",
+        "logo": "https://a.alpacacdn.gg/ra/boltfm.png",
+        "website": "https://boltfm.net",
+        "description": "No description provided.",
+        "color": "#1877D3",
+        "listen_url": "https://azura.boltfm.net/radio/8000/radio.mp3",
+        "api_url": "EXTERNAL",
+        "ext_api_identifier": "boltfm"
+      }
+  }
+]

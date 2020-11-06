@@ -1,0 +1,15 @@
+[
+  {
+    "livida":
+      { 
+        "name": "Livida",
+        "logo": "https://a.alpacacdn.gg/ra/livida.png",
+        "website": "https://livida.net",
+        "description": "The online community for gamers.",
+        "color": "#8101FF",
+        "listen_url": "https://stream.livida.net",
+        "api_url": "EXTERNAL",
+        "ext_api_identifier": "livida"
+      }
+  }
+]

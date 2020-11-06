@@ -1,0 +1,15 @@
+[
+  {
+    "simulatorradio":
+      { 
+        "name": "Simulator Radio",
+        "logo": "https://a.alpacacdn.gg/ra/simulatorradio.png",
+        "website": "https://simulatorradio.com",
+        "description": "Simulator Radio is a community based radio station for the Simulation Community.",
+        "color": "#FC530F",
+        "listen_url": "https://simulatorradio.stream/stream",
+        "api_url": "EXTERNAL",
+        "ext_api_identifier": "simulatorradio"
+      }
+  }
+]

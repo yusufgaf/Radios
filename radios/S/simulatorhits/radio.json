@@ -1,0 +1,15 @@
+[
+  {
+    "simulatorhits":
+      { 
+        "name": "SimulatorHits",
+        "logo": "https://a.alpacacdn.gg/ra/simulatorhits.jpg",
+        "website": "https://simulatorhits.com",
+        "description": "SimulatorHits, your number one hit Simulation Radio Station.",
+        "color": "#BE4566",
+        "listen_url": "https://radio.simulatorhits.com/radio/8000/stream",
+        "api_url": "EXTERNAL",
+        "ext_api_identifier": "simulatorhits"
+      }
+  }
+]

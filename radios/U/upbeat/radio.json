@@ -1,0 +1,15 @@
+[
+  {
+    "upbeat":
+      { 
+        "name": "UpBeat",
+        "logo": "https://a.alpacacdn.gg/ra/upbeat.gif",
+        "website": "https://upbeatradio.net",
+        "description": "UpBeat is a community powered online radio, providing 24/7 ad-free radio entertainment.",
+        "color": "#212121",
+        "listen_url": "https://live.upbeat.pw",
+        "api_url": "EXTERNAL",
+        "ext_api_identifier": "upbeat"
+      }
+  }
+]
