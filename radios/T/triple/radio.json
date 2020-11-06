@@ -1,0 +1,15 @@
+[
+  {
+  	"triple":
+	  	{ 
+	  		"name": "triple",
+  			"logo": "https://a.alpacacdn.gg/ra/triple.png",
+  			"website": "https://tripleradio.net",
+  			"description": "Welcome to Triple, the community powered and ad free radio for your ears.",
+  			"color": "#649AD8",
+  			"listen_url": "https://live.tripleradio.net",
+  			"api_url": "EXTERNAL",
+        "ext_api_identifier": "triple"
+  		}
+  }
+]
