@@ -1,0 +1,15 @@
+[
+    {
+        "truckersfm":
+            { 
+                "name": "TruckersFM",
+                "logo": "https://truckersfm-dev.s3.fr-par.scw.cloud/news-banners/87JnbHgUlI6OqiG3U1N1XmQZ5f91u5Y6eKyncP8F.png",
+                "website": "https://truckers.fm",
+                "description": "TruckersFM is the number one hit music station for Trucking Simulators. Radio made for driving, now playing online, in cab and on the go.",
+                "color": "#E13CB9",
+                "listen_url": "https://live.truckers.fm/",
+                "api_url": "EXTERNAL",
+                "ext_api_identifier": "truckersfm"
+            }
+    }
+  ]

@@ -1,0 +1,15 @@
+[
+    {
+      "bigrigfm":
+        { 
+          "name": "BigRigFM",
+          "logo": "https://cdn.discordapp.com/avatars/582569418727620628/074d01e62781fe335cbbc9f884c24251.png?size=128",
+          "website": "https://bigrig.fm",
+          "description": "No description provided.",
+          "color": "#cf5c14",
+          "listen_url": "https://radio.bigrig.fm/",
+          "api_url": "EXTERNAL",
+          "ext_api_identifier": "bigrigfm"
+        }
+    }
+  ]
