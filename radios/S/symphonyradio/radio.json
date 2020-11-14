@@ -3,12 +3,12 @@
     "symphonyradio":
       { 
         "name": "SymphonyRadio",
-        "logo": "https://symphonyradio.tk/assets/img/logo.png",
-        "website": "https://symphonyradio.tk",
+        "logo": "http://symphonyradio.tk/assets/img/logo.png",
+        "website": "http://symphonyradio.tk",
         "description": "SymphonyRadio, bringing symphony to your ears",
         "color": "#46356e",
-        "listen_url": "https://live.symphonyradio.tk/radiopeeker.mp3",
-        "api_url": "https://api.symphonyradio.tk",
+        "listen_url": "http://azura.bsat.ml/radio/8000/radiopeeker.mp3",
+        "api_url": "http://api.symphonyradio.tk",
         "ext_api_identifier": "symphony"
       }
   }
