@@ -7,8 +7,8 @@
         "website": "https://symphonyradio.tk",
         "description": "SymphonyRadio, bringing symphony to your ears",
         "color": "#46356e",
-        "listen_url": "https://azura.bencaulfield.me/radio/8120/main.mp3,
-        "api_url": "https://api.symphonyradio.tk",
+        "listen_url": "https://azura.bencaulfield.me/radio/8120/main.mp3",
+        "api_url": "EXTERNAL",
         "ext_api_identifier": "symphony"
       }
   }
