@@ -7,7 +7,7 @@
         "website": "http://symphonyradio.tk",
         "description": "SymphonyRadio, bringing symphony to your ears",
         "color": "#46356e",
-        "listen_url": "http://azura.bsat.ml:90/radio/8000/radiopeeker.mp3",
+        "listen_url": "https://azura.bencaulfield.me/radio/8120/main.mp3,
         "api_url": "http://api.symphonyradio.tk",
         "ext_api_identifier": "symphony"
       }
