@@ -6,7 +6,7 @@
           "logo": "https://i.imgur.com/NiEWTjO.png",
           "website": "https://wearehit.co.uk",
           "description": "All the Hits, All the Time",
-          "color": "#db6cc0",
+          "color": "#3300ff",
           "listen_url": "https://radioserver.wearehit.co.uk/radio/8000/externalstreamingservices.mp3",
           "api_url": "http://radioserver.wearehit.co.uk/api/nowplaying/1 ",
           "ext_api_identifier": "hitradio"
