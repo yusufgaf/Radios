@@ -11,6 +11,7 @@ If you would like to <strong>publish</strong> your radio, please feel free to op
 
 ## Requirements to publish a radio
 - Your radio must have an accessible website.
+- Your radio must have been operating for at least 1 week.
 - Your radio must have a logo that you consent for us to use.
 - Your radio must have a direct stream link with HTTPs (E.G. https://stream.example.com/radio.mp3)
 - You must have basic knowledge of JSON
