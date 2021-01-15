@@ -7,7 +7,7 @@
         "website": "https://symphonyradio.xyz",
         "description": "SymphonyRadio, bringing symphony to your ears",
         "color": "#46356e",
-        "listen_url": "https://stream.symphonyradio.xyz/radiopeeker",
+        "listen_url": "https://stream.symphony.lol/radiopeeker",
         "api_url": "EXTERNAL",
         "ext_api_identifier": "symphony"
       }
