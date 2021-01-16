@@ -1,0 +1,15 @@
+[
+    {
+        "aqua":
+            { 
+                "name": "Aqua",
+                "logo": "https://cdn.discordapp.com/attachments/762743871523389440/793119466212425768/logo.png",
+                "website": "https://itsaqua.net",
+                "description": "Aqua is an online radio created by the community for the community",
+                "color": "#3498db",
+                "listen_url": "https://live.itsaqua.net/",
+                "api_url": "EXTERNAL",
+                "ext_api_identifier": "aqua"
+            }
+    }
+  ]
