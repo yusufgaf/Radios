@@ -1,0 +1,15 @@
+[
+    {
+        "simulationfm":
+            { 
+                "name": "SimulationFM",
+                "logo": "https://pbs.twimg.com/profile_images/1274759100778328068/Ev1yquYl_400x400.jpg",
+                "website": "https://simulation.fm",
+                "description": "Simulation.FM is a online radio station that not just on 1 game we base on all other games and we was founded on the 2020 on Steven H. Birthday",
+                "color": "#0bd6af",
+                "listen_url": "https://simulation.stream/radio/8000/radio.mp3",
+                "api_url": "EXTERNAL",
+                "ext_api_identifier": "simulationfm"
+            }
+    }
+  ]
