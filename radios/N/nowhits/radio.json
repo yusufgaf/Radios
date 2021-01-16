@@ -1,0 +1,15 @@
+[
+    {
+      "nowhits":
+        { 
+          "name": "NowHits",
+          "logo": "https://cdn.discordapp.com/avatars/746560439336304695/649861f71cd4089e7b40bcc09ff3b4ba.png?size=128",
+          "website": "https://nowhits.co.uk",
+          "description": "No description provided.",
+          "color": "#000000",
+          "listen_url": "https://radio.nowhits.co.uk/",
+          "api_url": "EXTERNAL",
+          "ext_api_identifier": "nowhits"
+        }
+    }
+  ]
