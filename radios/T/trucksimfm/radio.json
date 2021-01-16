@@ -1,0 +1,15 @@
+[
+    {
+        "trucksimfm":
+            { 
+                "name": "TruckSimFM",
+                "logo": "https://trucksim.fm/assets/img/avatars/autodj.jpg",
+                "website": "trucksim.fm/",
+                "description": "TruckSimFM is an online trucking radio station with the community at the centre of everything we do",
+                "color": "#243447",
+                "listen_url": "https://stream.trucksim.fm/",
+                "api_url": "EXTERNAL",
+                "ext_api_identifier": "trucksimfm"
+            }
+    }
+  ]
