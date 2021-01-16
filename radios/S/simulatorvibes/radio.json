@@ -1,0 +1,16 @@
+[
+    {
+      "simulatorvibes":
+        { 
+          "name": "SimulatorVibes",
+          "logo": "https://www.simulatorvibes.com/application/files/6016/0227/4522/SV_albumicondiscord.png",
+          "website": "https://www.simulatorvibes.com/",
+          "description": "Giving you the vibes you need for your simulation.",
+          "color": "#520041",
+          "listen_url": "https://azuracast.simulatorvibes.com/radio/8000/radio",
+          "api_url": "EXTERNAL",
+          "ext_api_identifier": "simulatorvibes"
+        }
+    }
+  ]
+  
