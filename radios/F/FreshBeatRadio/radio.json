@@ -1,6 +1,6 @@
 [
     {
-        "FreshBeatRadio":
+        "freshbeatradio":
             { 
                 "name": "FreshBeatRadio",
                 "logo": "https://fbradio.uk/splashbackup2/fbradiouk.png",
@@ -9,7 +9,7 @@
                 "color": "#043b1f",
                 "listen_url": "https://live.fbradio.uk/radio/8080/radio.mp3",
                 "api_url": "EXTERNAL",
-                "ext_api_identifier": "freshbeatradio"
+                "ext_api_identifier": "freshbeat"
             }
     }
   ]
